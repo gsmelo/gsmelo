@@ -4,9 +4,7 @@
 
 📆 Tenho 21 anos
 
-:woman_student: Graduanda em Engenharia Biomédica (9/10) 
-
-:footprints: Estou nos *baby steps* em programação
+:woman_student: Graduanda em Engenharia Biomédica (9/10) | No processo para me tornar desenvolvedora back-end
 
 :computer: Atualmente aprendendo:
 
