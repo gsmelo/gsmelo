@@ -1,10 +1,6 @@
 ### Oi! Meu nome é Giovana! 
 
-♀️ Ela/Dela
-
-📆 Tenho 22 anos
-
-:woman_student: Graduanda em Engenharia Biomédica (9/10) | No processo para me tornar desenvolvedora back-end
+:woman_student: Graduanda em Engenharia Biomédica (9/10) | No processo para me tornar desenvolvedora back-end!
 
 :computer: Atualmente aprendendo:
 
